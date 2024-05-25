@@ -1,6 +1,6 @@
-## Cyfrin Updraft Foundry Simple Storage Follow along with Pat Collins
+# Cyfrin Updraft Foundry Simple Storage Follow along with Pat Collins
 
-# Any changes to the video will be recorded here
+## Any changes to the video will be recorded here
 
 - Version 1.0 - Initial Release
 
