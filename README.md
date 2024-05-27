@@ -18,3 +18,5 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 ```
+
+- access list key not visible in dry-run latest.json of deployments
